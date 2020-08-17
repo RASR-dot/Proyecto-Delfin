@@ -1,0 +1,17 @@
+Datos Abiertos de Incidencia Delictiva
+
+Datos sobre la incidencia delictiva en el país de México que van desde enero del 2015 hasta mayo del 2020 publicado por el Secretariado 
+Ejecutivo del Sistema Nacional de Seguridad Pública.
+Aquí se encuentra información sobre el bien jurídico afectado, los distintos tipos de delitos y subtipos de delitos, sus modalidades y el número de incidencia en cada mes, así como
+así como su municipio, entidades, clave de entidad y el año en cuestión, los cuales se registran en la base de datos del gobierno en la 
+liga https://www.gob.mx/sesnsp/acciones-y-programas/datos-abiertos-de-incidencia-delictiva?state=published. 
+Estos datos utilizan una nueva metodología la cual se implementó a partir de diciembre del 2017 y son clasificados en cuatro:
+-Cifras de incidencia delictiva estatal (IDE.csv).
+-Cifras de incidencia delictiva municipal (IDM.csv).
+-Cifras de víctimas del fuero común (IDVFC.csv).
+-Cifras de incidencia delictiva Federal (IDEFF.csv).
+
+Los datos que se utilizarán para este proyecto serán los municipales, pues nos permiten visualizar de una manera más específica los delitos para poder
+hacer nuestras predicciones. En mi caso, separé cada año de años para así poder acceder a ellos de una forma más fácil
+para su análisis.
+Los datos fueron recuperados el 14 de junio del 2020.
